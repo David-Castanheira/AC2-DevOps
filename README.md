@@ -1,6 +1,9 @@
 # AC2-DevOps
-
-
+Integrantes do grupo:
+- David Castanheira de Souza (2202571)
+- Letícia Nunes de Lima ()
+- Lucas Stefaneli ()
+- Renan Makiya ()
 
 ## Getting started
 

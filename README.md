@@ -1,5 +1,6 @@
-# AC2-DevOps
-Integrantes do grupo:
+# AC2 da disciplina de DevOps
+Integrantes do grupo
+
 **David Castanheira de Souza - 2202571**
 
 **Letícia Nunes de Lima - 2203132**

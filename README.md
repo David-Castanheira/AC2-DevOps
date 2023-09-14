@@ -1,15 +1,13 @@
 # AC2-DevOps
 Integrantes do grupo:
-- David Castanheira de Souza (2202571)
-- Letícia Nunes de Lima ()
-- Lucas Stefaneli ()
-- Renan Makiya ()
+**David Castanheira de Souza - 2202571**
+**Letícia Nunes de Lima - 2203132**
+**Lucas Stefaneli - 2202799**
+**Renan Makiya - 2203141**
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Página de login simples em Flask personalizada para o modelo de negócio abordado na disciplina de Engenharia de Requisitos
 
 ## Add your files
 

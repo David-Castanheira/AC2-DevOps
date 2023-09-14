@@ -1,5 +1,5 @@
 # AC2 da disciplina de DevOps
-Integrantes do grupo
+### Integrantes do grupo
 
 **David Castanheira de Souza - 2202571**
 
@@ -9,7 +9,7 @@ Integrantes do grupo
 
 **Renan Makiya - 2203141**
 
-## Getting started
+## Sobre o projeto
 
 Página de login simples em Flask personalizada para o modelo de negócio abordado na disciplina de Engenharia de Requisitos
 

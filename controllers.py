@@ -21,4 +21,4 @@ def confirm():
         'accept_whatsapp': accept_whatsapp
     }
 
-    return render_template('index.html', **dados)
+    return render_template('index.html')

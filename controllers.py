@@ -10,15 +10,12 @@ def index():
 def confirm():
     print('processando requisição POST')
     pprint(request.form)
-    name = request.form.get('nome')
-    telefone = request.form.get('telefone')
-    accept_whatsapp = request.form.get('accept-whatsapp')
-    print('checkbox whatsapp', accept_whatsapp)
+    email = request.form.get('email')
+    senha = request.form.get('senha')
 
     dados = {
-        'name': name,
-        'telefone': telefone,
-        'accept_whatsapp': accept_whatsapp
+        'email': email,
+        'senha': senha
     }
 
-    return render_template('index.html')
+    return render_template('index.html', **dados)

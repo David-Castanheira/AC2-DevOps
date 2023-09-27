@@ -1,4 +1,4 @@
 test-job:
   stage: test
   script:
-    - echo "Hello, $USER,GITLAB!"
+    - echo "Hello, $GITLAB_USER_LOGIN!"
